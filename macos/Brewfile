@@ -1,0 +1,84 @@
+cask_args appdir: '/Applications'
+
+cask 'atom'
+cask 'lighttable'
+cask 'visual-studio-code'
+cask 'intellij-idea'
+
+cask 'firefox'
+cask 'google-chrome'
+cask 'opera'
+
+cask 'iterm2'
+cask 'docker'
+cask 'virtualbox'
+cask 'vagrant'
+cask 'vagrant-manager'
+
+cask 'spectacle'
+cask 'grandperspective'
+cask 'skitch'
+cask 'spotify'
+cask 'rescuetime'
+cask 'transmit'
+cask 'sidestep'
+cask 'transmission'
+cask 'the-unarchiver'
+cask 'caffeine'
+cask 'vlc'
+
+cask 'qlcolorcode'
+cask 'qlstephen'
+cask 'qlmarkdown'
+cask 'quicklook-json'
+cask 'qlprettypatch'
+cask 'quicklook-csv'
+cask 'betterzipql'
+cask 'suspicious-package'
+
+cask 'messenger'
+cask 'whatsapp'
+cask 'skype'
+cask 'slack'
+cask 'joinme'
+cask 'screenhero'
+
+cask 'java7'
+cask 'java'
+brew 'jenv'
+
+brew 'maven'
+brew 'gradle'
+brew 'leiningen'
+brew 'curl'
+brew 'jq'
+
+brew 'heroku'
+brew 'awscli'
+brew 'ansible'
+
+brew 'node'
+brew 'elm'
+brew 'elm-format'
+brew 'kotlin'
+brew 'go'
+brew 'rust'
+
+brew 'curl'
+brew 'jq'
+brew 'httpie'
+brew 'mas'
+brew 'tree'
+brew 'ack'
+brew 'colordiff'
+brew 'zsh'
+brew 'zsh-completions'
+brew 'dark-mode'
+brew 'fortune'
+
+mas 'Xcode', id: 497799835
+mas 'Pages', id: 409201541
+mas 'Numbers', id: 409203825
+mas 'Keynote', id: 409183694
+mas 'iMovie', id: 408981434
+
